@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *.pyo
 
+app/firebase-credentials.json
+data/
+
 # Virtual environment
 venv/
 env/
