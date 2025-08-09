@@ -1,4 +1,4 @@
-﻿# blog_tech
+# blog_tech
 
 ⚠️ **This project is currently under development.**
 
